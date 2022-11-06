@@ -1,6 +1,6 @@
-print("a, is leangth of a rectaangle")
+print("Enter length")
 a=int(input())
-print("b, is breadth of a rectangle")
+print("Enter breadth")
 b=int(input())
 if a == b:
     print("square")
